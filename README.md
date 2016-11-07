@@ -9,6 +9,6 @@
 ####实习日记
 1. [第一篇](https://github.com/Andyliwr/InternshipDiary/blob/master/DailyBook1.md)
 2. [第二篇](https://github.com/Andyliwr/InternshipDiary/blob/master/DailyBook2.md)
-2. [第三篇](https://github.com/Andyliwr/InternshipDiary/blob/master/DailyBook3.md)
-2. [第四篇](https://github.com/Andyliwr/InternshipDiary/blob/master/DailyBook4.md)
-2. [第五篇](https://github.com/Andyliwr/InternshipDiary/blob/master/DailyBook5.md)
+3. [第三篇](https://github.com/Andyliwr/InternshipDiary/blob/master/DailyBook3.md)
+4. [第四篇](https://github.com/Andyliwr/InternshipDiary/blob/master/DailyBook4.md)
+5. [第五篇](https://github.com/Andyliwr/InternshipDiary/blob/master/DailyBook5.md)
