@@ -7,8 +7,8 @@
 + 实习时间：2016/05/20 -- 2016/10/28
 
 ####实习日记
-1. ![第一篇]()
-2. 第二篇
-3. 第三篇
-4. 第四篇
-5. 第五篇
+1. [第一篇](https://github.com/Andyliwr/InternshipDiary/blob/master/DailyBook1.md)
+2. [第二篇](https://github.com/Andyliwr/InternshipDiary/blob/master/DailyBook2.md)
+3. [第三篇](https://github.com/Andyliwr/InternshipDiary/blob/master/DailyBook3.md)
+4. [第四篇](https://github.com/Andyliwr/InternshipDiary/blob/master/DailyBook4.md)
+5. [第五篇](https://github.com/Andyliwr/InternshipDiary/blob/master/DailyBook5.md)
